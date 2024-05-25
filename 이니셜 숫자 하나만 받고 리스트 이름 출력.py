@@ -20,3 +20,7 @@ if result_list:
     print("{}_list: {}".format(initial, result_list))
 else:
     print("No list found with the initial '{}'".format(initial))
+
+# 출력 예시
+# Enter the initial: 7
+# 7_list: [7, 8, 9]
